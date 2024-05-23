@@ -3,7 +3,6 @@
 
 Group member: Dayna Yoon, Xudong Ma, Danlin (Evelyn) Pu, Shrey Chordia
 
-Introduction
 Heart disease (cardiovascular disease) is a leading cause of death worldwide, with millions of lives lost each year. Early diagnosis of heart disease is crucial because it enables timely intervention and preventive measures, ultimately improving outcomes and quality of life for individuals affected by this condition. The fight against this pervasive health issue increasingly leverages data analysis to identify risk factors, improve diagnostic methods, and tailor treatments more effectively. Therefore, this project focuses on analyzing a heart disease dataset from the UCI Machine Learning Repository, by critical variables such as gender, age, and cholesterol level as predictors.
 
 "In particular, the Cleveland database is the only one that has been used by ML researchers to date. The "goal" field refers to the presence of heart disease in the patient. It is an integer valued from 0 (no presence) to 4. Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0)." (Janosi et al., 1988)
